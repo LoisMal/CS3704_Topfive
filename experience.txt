@@ -1,0 +1,2 @@
+Kat - I have no experience with CI and CD whatsoever. This is all new to me.
+Loïs - I second that ^
